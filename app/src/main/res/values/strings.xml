@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bitcoin exchange rates</string>
+    <string name="refresh">refresh</string>
+    <string name="web_url">https://api.coindesk.com/v1/bpi/currentprice.json</string>
+    <string name="bit_to_euro">Bitcoin to euro</string>
+    <string name="USD">USD</string>
+    <string name="euro">EURO</string>
+    <string name="gbp">GBP</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="convertoToBit">convert to bitcoin</string>
+    <string name="convertUEG">convert from bitcoin</string>
+    <string name="poweredByCoindesk">Powered by CoinDesk</string>
+    <string name="openCalculator">Open calculator</string>
+</resources>
